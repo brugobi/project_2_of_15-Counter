@@ -1,6 +1,6 @@
 # Counter
 
-> Vanilla JS: This is the project 2 of 15 from the course created by [John Smilga](https://www.johnsmilga.com) and also available on his [YouTube channel](https://www.youtube.com/watch?v=c5SIG7Ie0dM&list=PLnHJACx3NwAey1IiiYmxFbXxieMYqnBKF). **Counter** is an app to count numbers: increase, decrease and reset.
+> This is the project 2 of 15 from the course created by [John Smilga](https://www.johnsmilga.com) and also available on his [YouTube channel](https://www.youtube.com/watch?v=c5SIG7Ie0dM&list=PLnHJACx3NwAey1IiiYmxFbXxieMYqnBKF). **Counter** is an app to count numbers: increase, decrease and reset.
 
 ![home_page](home.png)
 ![home2_page](home2.png)
@@ -11,7 +11,7 @@
 - HTML
 - CSS
 - VSCode
-- JavaScript
+- Vanilla JavaScript
 
 ## Getting Started
 
